@@ -1,7 +1,7 @@
 import React from "react";
 
 const Output = () => {
-  console.log("Output is running");
+  console.log("Output ran");
   return <div>TEST DIV</div>;
 };
 
